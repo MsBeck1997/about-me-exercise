@@ -16,3 +16,7 @@ b {
 em {
 	color: gray;
 }
+
+img {
+	outline: 10px solid lightpink;
+}
