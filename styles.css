@@ -33,6 +33,7 @@ ul {
 .sarah-tomatoes {
 	position: relative;
 }
+
 .sarah-tomatoes h1 {
 	color: white;
 	position: absolute;
@@ -50,5 +51,4 @@ ul {
 	width: 400px;
 	padding: 40px;
 	opacity: 85%;
-
 }
