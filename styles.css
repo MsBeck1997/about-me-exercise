@@ -1,28 +1,54 @@
 body {
-	background-color: dimgray;
+	background-color: #A02D2D;
 	color: white;
+	font-family: 'Hind', sans-serif;
+	margin: 50px auto;
 	text-align: center;
 	font-size: 24px;
 }
 
+h1 {
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
 h1, h2 {
 	color: lightpink;
+	font-family: 'Bangers', cursive;
 }
 
 b {
 	color: lightpink;
 }
 
-em {
-	color: gray;
-}
-
-img {
-	outline: 10px solid lightpink;
-}
-
 ul {
 	list-style-type: circle;
 	display: inline-block;
 	text-align: left;
+}
+
+.sarah-tomatoes {
+	position: relative;
+}
+.sarah-tomatoes h1 {
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+}
+
+#sarah-img, #lilly-img {
+	outline: 10px solid lightpink;
+	width: 400px;
+	margin: 20px;
+}
+
+#tomatoes {
+	width: 400px;
+	padding: 40px;
+	opacity: 85%;
+
 }
